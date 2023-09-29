@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(221, 220, 220);
+}
+h1 {
+    text-align: center;
+}
+div.list {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
